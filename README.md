@@ -10,7 +10,7 @@ Currently working through: [Go with Tests][go-with-tests]
 - [x] Install Go
 - [x] Hello, World
 - [x] Integers
-- [ ] Iteration
+- [x] Iteration
 - [ ] Arrays & Slices
 - [ ] Structs, Methods & Interfaces
 - [ ] Pointers & Errors
