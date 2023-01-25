@@ -5,13 +5,16 @@ Currently working through: [Go with Tests][go-with-tests]
 
 ## Go with Tests
 
+### This Week
+Get through `Dependency Injection`
+
 ### Fundamentals
 
 - [x] Install Go
 - [x] Hello, World
 - [x] Integers
 - [x] Iteration
-- [ ] Arrays & Slices
+- [x] Arrays & Slices
 - [ ] Structs, Methods & Interfaces
 - [ ] Pointers & Errors
 - [ ] Maps
