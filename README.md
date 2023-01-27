@@ -15,7 +15,7 @@ Get through `Dependency Injection`
 - [x] Integers
 - [x] Iteration
 - [x] Arrays & Slices
-- [ ] Structs, Methods & Interfaces
+- [x] Structs, Methods & Interfaces
 - [ ] Pointers & Errors
 - [ ] Maps
 - [ ] Dependency Injection
