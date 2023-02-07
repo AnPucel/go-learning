@@ -18,7 +18,14 @@ Get through `Dependency Injection`
 - [x] Structs, Methods & Interfaces
 - [x] Pointers & Errors
 - [x] Maps
-- [ ] Dependency Injection
+- [x] Dependency Injection
+- [ ] Mocking
+- [ ] Concurrency
+- [ ] Select
+- [ ] Reflection
+- [ ] Sync
+- [ ] Context
+
 
 
 [go-with-tests]: https://quii.gitbook.io/learn-go-with-tests/
