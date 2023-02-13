@@ -19,7 +19,7 @@ Get through `Dependency Injection`
 - [x] Pointers & Errors
 - [x] Maps
 - [x] Dependency Injection
-- [ ] Mocking
+- [x] Mocking
 - [ ] Concurrency
 - [ ] Select
 - [ ] Reflection
